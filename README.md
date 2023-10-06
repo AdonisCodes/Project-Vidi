@@ -1,9 +1,9 @@
 ![Add a heading](https://github.com/AdonisCodes/Project-Vidi/assets/122154257/944d4732-e33d-480d-8d21-ccb5536330dc)
 
 # 🚵‍♀️ Follow me on this Journey:
-- ![Youtube Videos](https://youtube.com/@adonisCodes)
-- ![Blog & Newsletter](https://blog.simonferns.com) // Coming soon
-- ![Buy Me a coffee](https://www.buymeacoffee.com/adoniscodes)
+- [Youtube Videos](https://youtube.com/@adonisCodes)
+- [Blog & Newsletter](https://blog.simonferns.com) // Coming soon
+- [Buy Me a coffee](https://www.buymeacoffee.com/adoniscodes)
 
 # Project-Vidi
 Experience the future of video editing with Project-Vidi. Our all-in-one AI Video Editor offers web apps for easy online editing, powerful GUIs for advanced users, versatile APIs for developers, and an extension marketplace to enhance your creativity. Harness the potential of AI to transform your video editing workflow.
